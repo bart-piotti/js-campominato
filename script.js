@@ -104,7 +104,7 @@ var game_over = false;
                     array_previous.push(numero_utente);
                 }
                 else {
-                    console.log('BOOM! Hai fatto esplodere una mina (' + numero_utente + ')');
+                    console.log('🔥 BOOM! 🔥 Hai fatto esplodere una mina (' + numero_utente + ')');
                     console.log('Punteggio finale: ' + punteggio);
                 }
             }
